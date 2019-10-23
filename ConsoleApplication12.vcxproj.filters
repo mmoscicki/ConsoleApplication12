@@ -35,6 +35,9 @@
     <ClCompile Include="NitroxPL.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
+    <ClCompile Include="Stonoga.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
     <ClCompile Include="Jerex.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
